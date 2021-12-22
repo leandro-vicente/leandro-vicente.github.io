@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import './index.css'
 
-import { AVATAR_URL } from '../../constants'
+import { AVATAR_URL } from '../../constants.js'
 
 const Bio = (props) => {
   return (

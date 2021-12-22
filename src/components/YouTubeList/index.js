@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { SUBSCRIBE_FORM_URL } from '../../constants'
+import { SUBSCRIBE_FORM_URL } from '../../constants.js'
 
 const redirectToSubscribeForm = () => {
   return (
